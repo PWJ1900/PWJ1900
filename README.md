@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Buri Pan
-  I'm Chinese, a freelance programmer. I just want to program something meaningful in the future! Graduated from Yangzhou University with a master's degree.<br>
+  I'm Chinese, a freelance programmer. I just want to program something meaningful in the future! Graduated from Yangzhou University with a master's degree. I really hope to meet like-minded friends！<br>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PWJ1900&theme=radical&show_icons=true">
     <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=PWJ1900&show_icons=true&theme=radical">
